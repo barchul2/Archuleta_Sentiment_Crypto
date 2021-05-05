@@ -1,5 +1,4 @@
-# Purpose: To obtain corpus from twitter API. Corpus obtained from list of 40 identified individuals with interests
-# in the cryptocurrency market.
+# Purpose: To obtain corpus from twitter API, create engine for trading, and create portfolio. 
 
 import tweepy
 import pandas as pd
