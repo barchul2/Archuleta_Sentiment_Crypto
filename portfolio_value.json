@@ -1,0 +1,3084 @@
+{
+    "value": [
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 0.0,
+            "current_value": 100000.0,
+            "coins_held": 1.8743947567615449,
+            "time": 1619733736.743343
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -44.345743231795495,
+            "current_value": 99955.6542567682,
+            "coins_held": 1.8743947567615449,
+            "time": 1619734636.245985
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -258.14108358278463,
+            "current_value": 99741.85891641722,
+            "coins_held": 1.8743947567615449,
+            "time": 1619735536.5595891
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -224.26758385701396,
+            "current_value": 99775.73241614299,
+            "coins_held": 1.8743947567615449,
+            "time": 1619736436.174081
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 224.3000108862907,
+            "current_value": 100224.30001088629,
+            "coins_held": 1.8743947567615449,
+            "time": 1619737336.3513238
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 144.6476056977117,
+            "current_value": 100144.64760569771,
+            "coins_held": 1.8743947567615449,
+            "time": 1619738236.811796
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 384.9793149385805,
+            "current_value": 100384.97931493858,
+            "coins_held": 1.8743947567615449,
+            "time": 1619739136.8969102
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 454.6130801522813,
+            "current_value": 100454.61308015228,
+            "coins_held": 1.8743947567615449,
+            "time": 1619740036.696106
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 332.03084953116195,
+            "current_value": 100332.03084953116,
+            "coins_held": 1.8743947567615449,
+            "time": 1619740936.819009
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -35.11940992058953,
+            "current_value": 99964.88059007941,
+            "coins_held": 1.8743947567615449,
+            "time": 1619741836.72792
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 871.9729393928865,
+            "current_value": 100871.97293939289,
+            "coins_held": 1.8743947567615449,
+            "time": 1619742736.89545
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 278.6449003875168,
+            "current_value": 100278.64490038752,
+            "coins_held": 1.8743947567615449,
+            "time": 1619743636.502856
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -90.71695743774762,
+            "current_value": 99909.28304256225,
+            "coins_held": 1.8743947567615449,
+            "time": 1619744536.778322
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -15.263196504325606,
+            "current_value": 99984.73680349567,
+            "coins_held": 1.8743947567615449,
+            "time": 1619745436.5699542
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": -66.99349275931309,
+            "current_value": 99933.00650724069,
+            "coins_held": 1.8743947567615449,
+            "time": 1619746336.756383
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 262.9344732942409,
+            "current_value": 100262.93447329424,
+            "coins_held": 1.8743947567615449,
+            "time": 1619747236.943766
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 178.02120434184326,
+            "current_value": 100178.02120434184,
+            "coins_held": 1.8743947567615449,
+            "time": 1619748136.090254
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 354.8547921658319,
+            "current_value": 100354.85479216583,
+            "coins_held": 1.8743947567615449,
+            "time": 1619749037.550634
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 358.9409727355669,
+            "current_value": 100358.94097273557,
+            "coins_held": 1.8743947567615449,
+            "time": 1619749936.152638
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 302.87145261865226,
+            "current_value": 100302.87145261865,
+            "coins_held": 1.8743947567615449,
+            "time": 1619750837.256077
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 548.0674036927958,
+            "current_value": 100548.0674036928,
+            "coins_held": 1.8743947567615449,
+            "time": 1619751736.325384
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 495.3093767926621,
+            "current_value": 100495.30937679266,
+            "coins_held": 1.8743947567615449,
+            "time": 1619752636.038697
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 640.0188375173457,
+            "current_value": 100640.01883751735,
+            "coins_held": 1.8743947567615449,
+            "time": 1619753536.176159
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 697.2722253626271,
+            "current_value": 100697.27222536263,
+            "coins_held": 1.8743947567615449,
+            "time": 1619754436.175504
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 914.036607008311,
+            "current_value": 100914.03660700831,
+            "coins_held": 1.8743947567615449,
+            "time": 1619755336.388042
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1504.8490208106523,
+            "current_value": 101504.84902081065,
+            "coins_held": 1.8743947567615449,
+            "time": 1619756235.962219
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1687.3432808000362,
+            "current_value": 101687.34328080004,
+            "coins_held": 1.8743947567615449,
+            "time": 1619757135.503746
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1494.7053587054688,
+            "current_value": 101494.70535870547,
+            "coins_held": 1.8743947567615449,
+            "time": 1619758035.5785449
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1661.5516089470038,
+            "current_value": 101661.551608947,
+            "coins_held": 1.8743947567615449,
+            "time": 1619758935.391329
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1570.3216296643222,
+            "current_value": 101570.32162966432,
+            "coins_held": 1.8743947567615449,
+            "time": 1619759835.2310169
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1412.697589065545,
+            "current_value": 101412.69758906554,
+            "coins_held": 1.8743947567615449,
+            "time": 1619760735.3145
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1416.6681194788107,
+            "current_value": 101416.66811947881,
+            "coins_held": 1.8743947567615449,
+            "time": 1619761635.19197
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1899.5997430557181,
+            "current_value": 101899.59974305572,
+            "coins_held": 1.8743947567615449,
+            "time": 1619762535.284792
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1706.0778563938657,
+            "current_value": 101706.07785639387,
+            "coins_held": 1.8743947567615449,
+            "time": 1619763435.487514
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1812.6964291900658,
+            "current_value": 101812.69642919007,
+            "coins_held": 1.8743947567615449,
+            "time": 1619764335.289744
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1872.2335796069965,
+            "current_value": 101872.233579607,
+            "coins_held": 1.8743947567615449,
+            "time": 1619765235.270742
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2138.9440211387264,
+            "current_value": 102138.94402113873,
+            "coins_held": 1.8743947567615449,
+            "time": 1619766136.8140612
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2116.547815387574,
+            "current_value": 102116.54781538757,
+            "coins_held": 1.8743947567615449,
+            "time": 1619767035.290635
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1982.6384298118646,
+            "current_value": 101982.63842981186,
+            "coins_held": 1.8743947567615449,
+            "time": 1619767935.167501
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1870.5777392788732,
+            "current_value": 101870.57773927887,
+            "coins_held": 1.8743947567615449,
+            "time": 1619768835.220583
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2008.6081691667932,
+            "current_value": 102008.6081691668,
+            "coins_held": 1.8743947567615449,
+            "time": 1619769735.4825191
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1678.964736237307,
+            "current_value": 101678.9647362373,
+            "coins_held": 1.8743947567615449,
+            "time": 1619770635.409591
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2014.8686476543662,
+            "current_value": 102014.86864765437,
+            "coins_held": 1.8743947567615449,
+            "time": 1619771534.973621
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2056.28658627611,
+            "current_value": 102056.28658627611,
+            "coins_held": 1.8743947567615449,
+            "time": 1619772435.290118
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2447.632095566558,
+            "current_value": 102447.63209556656,
+            "coins_held": 1.8743947567615449,
+            "time": 1619773335.348462
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2680.306902226075,
+            "current_value": 102680.30690222608,
+            "coins_held": 1.8743947567615449,
+            "time": 1619774235.23932
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2411.5063231010718,
+            "current_value": 102411.50632310107,
+            "coins_held": 1.8743947567615449,
+            "time": 1619775134.9345112
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2046.9989602563583,
+            "current_value": 102046.99896025636,
+            "coins_held": 1.8743947567615449,
+            "time": 1619776035.0788128
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1968.199404682091,
+            "current_value": 101968.19940468209,
+            "coins_held": 1.8743947567615449,
+            "time": 1619776934.831854
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2150.4968532220228,
+            "current_value": 102150.49685322202,
+            "coins_held": 1.8743947567615449,
+            "time": 1619777835.470877
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2006.83855307693,
+            "current_value": 102006.83855307693,
+            "coins_held": 1.8743947567615449,
+            "time": 1619778735.1041222
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1886.3384001516242,
+            "current_value": 101886.33840015162,
+            "coins_held": 1.8743947567615449,
+            "time": 1619779634.964926
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1801.0039546974003,
+            "current_value": 101801.0039546974,
+            "coins_held": 1.8743947567615449,
+            "time": 1619780534.40417
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1856.1293421753217,
+            "current_value": 101856.12934217532,
+            "coins_held": 1.8743947567615449,
+            "time": 1619781434.777109
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1856.8322402090998,
+            "current_value": 101856.8322402091,
+            "coins_held": 1.8743947567615449,
+            "time": 1619782334.719585
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1677.9118887024379,
+            "current_value": 101677.91188870244,
+            "coins_held": 1.8743947567615449,
+            "time": 1619783235.094221
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 1801.3844568330242,
+            "current_value": 101801.38445683302,
+            "coins_held": 1.8743947567615449,
+            "time": 1619784134.37746
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2194.9141983335285,
+            "current_value": 102194.91419833353,
+            "coins_held": 1.8743947567615449,
+            "time": 1619785034.1007712
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2228.046749811954,
+            "current_value": 102228.04674981195,
+            "coins_held": 1.8743947567615449,
+            "time": 1619785935.6926332
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2454.2830104819877,
+            "current_value": 102454.28301048199,
+            "coins_held": 1.8743947567615449,
+            "time": 1619786836.19138
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2603.528693957516,
+            "current_value": 102603.52869395752,
+            "coins_held": 1.8743947567615449,
+            "time": 1619787736.594215
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 2237.0438446444023,
+            "current_value": 102237.0438446444,
+            "coins_held": 1.8743947567615449,
+            "time": 1619788635.980533
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 3054.417351728116,
+            "current_value": 103054.41735172812,
+            "coins_held": 1.8743947567615449,
+            "time": 1619789536.38526
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 3901.0940218021715,
+            "current_value": 103901.09402180217,
+            "coins_held": 1.8743947567615449,
+            "time": 1619790436.1159601
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5092.771790805753,
+            "current_value": 105092.77179080575,
+            "coins_held": 1.8743947567615449,
+            "time": 1619791334.3824892
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5034.937340585893,
+            "current_value": 105034.9373405859,
+            "coins_held": 1.8743947567615449,
+            "time": 1619792234.385061
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5462.052487338049,
+            "current_value": 105462.05248733805,
+            "coins_held": 1.8743947567615449,
+            "time": 1619793134.451702
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5064.958771647027,
+            "current_value": 105064.95877164703,
+            "coins_held": 1.8743947567615449,
+            "time": 1619794033.898079
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5151.852713538887,
+            "current_value": 105151.85271353889,
+            "coins_held": 1.8743947567615449,
+            "time": 1619794935.255533
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5357.91430112347,
+            "current_value": 105357.91430112347,
+            "coins_held": 1.8743947567615449,
+            "time": 1619795834.1101272
+        },
+        {
+            "original_investment": 100000,
+            "principle": 105357.91430112347,
+            "net_gain_or_loss": 5357.91430112347,
+            "current_value": 105357.91430112347,
+            "coins_held": 0.02080131729899337,
+            "time": 1619796733.774553
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6540.027577604997,
+            "current_value": 106540.027577605,
+            "coins_held": 1.8747551209995394,
+            "time": 1619797633.8527749
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7414.941484556766,
+            "current_value": 107414.94148455677,
+            "coins_held": 1.8747551209995394,
+            "time": 1619798534.075027
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6801.146657941528,
+            "current_value": 106801.14665794153,
+            "coins_held": 1.8747551209995394,
+            "time": 1619799434.232057
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7049.011032097056,
+            "current_value": 107049.01103209706,
+            "coins_held": 1.8747551209995394,
+            "time": 1619800338.0445051
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7022.9350631190755,
+            "current_value": 107022.93506311908,
+            "coins_held": 1.8747551209995394,
+            "time": 1619801234.108597
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6471.314615336669,
+            "current_value": 106471.31461533667,
+            "coins_held": 1.8747551209995394,
+            "time": 1619802133.7041862
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6353.98625317261,
+            "current_value": 106353.98625317261,
+            "coins_held": 1.8747551209995394,
+            "time": 1619803033.6592572
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6012.300133937664,
+            "current_value": 106012.30013393766,
+            "coins_held": 1.8747551209995394,
+            "time": 1619803933.9922419
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6302.158647852571,
+            "current_value": 106302.15864785257,
+            "coins_held": 1.8747551209995394,
+            "time": 1619804833.8503969
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6104.8035512159695,
+            "current_value": 106104.80355121597,
+            "coins_held": 1.8747551209995394,
+            "time": 1619805733.6619232
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6244.197406203166,
+            "current_value": 106244.19740620317,
+            "coins_held": 1.8747551209995394,
+            "time": 1619806633.160712
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6330.086312463565,
+            "current_value": 106330.08631246357,
+            "coins_held": 1.8747551209995394,
+            "time": 1619807533.750984
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6727.915535831562,
+            "current_value": 106727.91553583156,
+            "coins_held": 1.8747551209995394,
+            "time": 1619808433.693275
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6700.24415024562,
+            "current_value": 106700.24415024562,
+            "coins_held": 1.8747551209995394,
+            "time": 1619809333.3203578
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6873.630877611256,
+            "current_value": 106873.63087761126,
+            "coins_held": 1.8747551209995394,
+            "time": 1619810233.604904
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6762.8187892967835,
+            "current_value": 106762.81878929678,
+            "coins_held": 1.8747551209995394,
+            "time": 1619811133.6225522
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6716.557706882028,
+            "current_value": 106716.55770688203,
+            "coins_held": 1.8747551209995394,
+            "time": 1619812033.601608
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6898.190169696361,
+            "current_value": 106898.19016969636,
+            "coins_held": 1.8747551209995394,
+            "time": 1619812933.497262
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6893.231442401302,
+            "current_value": 106893.2314424013,
+            "coins_held": 1.8747551209995394,
+            "time": 1619813833.335144
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6659.722443158287,
+            "current_value": 106659.72244315829,
+            "coins_held": 1.8747551209995394,
+            "time": 1619814733.010062
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6658.034226171832,
+            "current_value": 106658.03422617183,
+            "coins_held": 1.8747551209995394,
+            "time": 1619815633.33971
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6639.355290999258,
+            "current_value": 106639.35529099926,
+            "coins_held": 1.8747551209995394,
+            "time": 1619816533.4832041
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6459.118958323539,
+            "current_value": 106459.11895832354,
+            "coins_held": 1.8747551209995394,
+            "time": 1619817433.3631659
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6492.315059775559,
+            "current_value": 106492.31505977556,
+            "coins_held": 1.8747551209995394,
+            "time": 1619818333.682664
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6935.891495179661,
+            "current_value": 106935.89149517966,
+            "coins_held": 1.8747551209995394,
+            "time": 1619819238.037726
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7569.349315930493,
+            "current_value": 107569.34931593049,
+            "coins_held": 1.8747551209995394,
+            "time": 1619822125.641854
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7116.467908434337,
+            "current_value": 107116.46790843434,
+            "coins_held": 1.8747551209995394,
+            "time": 1619823024.8054101
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7404.973974004955,
+            "current_value": 107404.97397400496,
+            "coins_held": 1.8747551209995394,
+            "time": 1619823925.591178
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7640.583636361058,
+            "current_value": 107640.58363636106,
+            "coins_held": 1.8747551209995394,
+            "time": 1619824817.9039612
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8171.2739430216025,
+            "current_value": 108171.2739430216,
+            "coins_held": 1.8747551209995394,
+            "time": 1619825718.419604
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8540.113265527063,
+            "current_value": 108540.11326552706,
+            "coins_held": 1.8747551209995394,
+            "time": 1619826617.775936
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8361.630203840483,
+            "current_value": 108361.63020384048,
+            "coins_held": 1.8747551209995394,
+            "time": 1619827518.0499682
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8813.646224372802,
+            "current_value": 108813.6462243728,
+            "coins_held": 1.8747551209995394,
+            "time": 1619828418.4268548
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8628.261064232749,
+            "current_value": 108628.26106423275,
+            "coins_held": 1.8747551209995394,
+            "time": 1619829318.512104
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8538.635208589665,
+            "current_value": 108538.63520858967,
+            "coins_held": 1.8747551209995394,
+            "time": 1619830218.129963
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7946.881315505481,
+            "current_value": 107946.88131550548,
+            "coins_held": 1.8747551209995394,
+            "time": 1619831128.152085
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8214.993232443318,
+            "current_value": 108214.99323244332,
+            "coins_held": 1.8747551209995394,
+            "time": 1619832027.977524
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9180.067112772158,
+            "current_value": 109180.06711277216,
+            "coins_held": 1.8747551209995394,
+            "time": 1619839392.753149
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9270.778639105818,
+            "current_value": 109270.77863910582,
+            "coins_held": 1.8747551209995394,
+            "time": 1619840292.6799018
+        },
+        {
+            "original_investment": 100000,
+            "principle": 109270.77863910582,
+            "net_gain_or_loss": 9270.778639105818,
+            "current_value": 109270.77863910582,
+            "coins_held": -0.0012280476405301943,
+            "time": 1619841192.585647
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9199.471297609125,
+            "current_value": 109199.47129760913,
+            "coins_held": 1.8806219704658107,
+            "time": 1619842093.19949
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9297.479911599963,
+            "current_value": 109297.47991159996,
+            "coins_held": 1.8806219704658107,
+            "time": 1619842992.565213
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8664.553390382338,
+            "current_value": 108664.55339038234,
+            "coins_held": 1.8806219704658107,
+            "time": 1619843893.795126
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9093.918192459387,
+            "current_value": 109093.91819245939,
+            "coins_held": 1.8806219704658107,
+            "time": 1619844794.444502
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8933.54194787542,
+            "current_value": 108933.54194787542,
+            "coins_held": 1.8806219704658107,
+            "time": 1619845693.3123882
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9771.975315537653,
+            "current_value": 109771.97531553765,
+            "coins_held": 1.8806219704658107,
+            "time": 1619846592.2564638
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9558.632481528693,
+            "current_value": 109558.6324815287,
+            "coins_held": 1.8806219704658107,
+            "time": 1619847492.705139
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9282.428729783729,
+            "current_value": 109282.42872978373,
+            "coins_held": 1.8806219704658107,
+            "time": 1619848392.5768251
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9052.011916967109,
+            "current_value": 109052.01191696711,
+            "coins_held": 1.8806219704658107,
+            "time": 1619849292.845008
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9205.00032620231,
+            "current_value": 109205.00032620231,
+            "coins_held": 1.8806219704658107,
+            "time": 1619850192.4256551
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9150.517203220326,
+            "current_value": 109150.51720322033,
+            "coins_held": 1.8806219704658107,
+            "time": 1619851092.906124
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9114.106669312343,
+            "current_value": 109114.10666931234,
+            "coins_held": 1.8806219704658107,
+            "time": 1619851992.567275
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8779.566024043525,
+            "current_value": 108779.56602404352,
+            "coins_held": 1.8806219704658107,
+            "time": 1619852891.8012218
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8965.277443627027,
+            "current_value": 108965.27744362703,
+            "coins_held": 1.8806219704658107,
+            "time": 1619853791.7790442
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8907.473330307403,
+            "current_value": 108907.4733303074,
+            "coins_held": 1.8806219704658107,
+            "time": 1619854692.286685
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8693.944502785569,
+            "current_value": 108693.94450278557,
+            "coins_held": 1.8806219704658107,
+            "time": 1619855592.458493
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8804.949342965498,
+            "current_value": 108804.9493429655,
+            "coins_held": 1.8806219704658107,
+            "time": 1619856492.200649
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8634.541860791054,
+            "current_value": 108634.54186079105,
+            "coins_held": 1.8806219704658107,
+            "time": 1619857391.891785
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8354.401215013117,
+            "current_value": 108354.40121501312,
+            "coins_held": 1.8806219704658107,
+            "time": 1619858292.0521019
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8280.420743752344,
+            "current_value": 108280.42074375234,
+            "coins_held": 1.8806219704658107,
+            "time": 1619859192.1425338
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7726.000786691817,
+            "current_value": 107726.00078669182,
+            "coins_held": 1.8806219704658107,
+            "time": 1619860092.33218
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7956.547926611005,
+            "current_value": 107956.547926611,
+            "coins_held": 1.8806219704658107,
+            "time": 1619860991.857783
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8667.806866391256,
+            "current_value": 108667.80686639126,
+            "coins_held": 1.8806219704658107,
+            "time": 1619861891.510274
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8088.102135000008,
+            "current_value": 108088.10213500001,
+            "coins_held": 1.8806219704658107,
+            "time": 1619862791.491766
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7920.267907867761,
+            "current_value": 107920.26790786776,
+            "coins_held": 1.8806219704658107,
+            "time": 1619863692.140308
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8101.216276186649,
+            "current_value": 108101.21627618665,
+            "coins_held": 1.8806219704658107,
+            "time": 1619864591.728467
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8299.0357042026,
+            "current_value": 108299.0357042026,
+            "coins_held": 1.8806219704658107,
+            "time": 1619865491.3901079
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8110.572370489725,
+            "current_value": 108110.57237048972,
+            "coins_held": 1.8806219704658107,
+            "time": 1619866391.745942
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8130.886284828099,
+            "current_value": 108130.8862848281,
+            "coins_held": 1.8806219704658107,
+            "time": 1619867292.028704
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8534.317309932434,
+            "current_value": 108534.31730993243,
+            "coins_held": 1.8806219704658107,
+            "time": 1619868192.47391
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8458.913772026615,
+            "current_value": 108458.91377202662,
+            "coins_held": 1.8806219704658107,
+            "time": 1619869092.209666
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8631.10652863761,
+            "current_value": 108631.10652863761,
+            "coins_held": 1.8806219704658107,
+            "time": 1619869991.656134
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8877.11388565159,
+            "current_value": 108877.11388565159,
+            "coins_held": 1.8806219704658107,
+            "time": 1619870892.147712
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8894.609876029426,
+            "current_value": 108894.60987602943,
+            "coins_held": 1.8806219704658107,
+            "time": 1619871791.94292
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8685.244557487997,
+            "current_value": 108685.244557488,
+            "coins_held": 1.8806219704658107,
+            "time": 1619872691.667328
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9045.752454800604,
+            "current_value": 109045.7524548006,
+            "coins_held": 1.8806219704658107,
+            "time": 1619873591.72661
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8818.67675497671,
+            "current_value": 108818.67675497671,
+            "coins_held": 1.8806219704658107,
+            "time": 1619874491.509873
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8912.682653165612,
+            "current_value": 108912.68265316561,
+            "coins_held": 1.8806219704658107,
+            "time": 1619875391.2856178
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8641.41666246629,
+            "current_value": 108641.41666246629,
+            "coins_held": 1.8806219704658107,
+            "time": 1619876291.8553479
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8498.262589701248,
+            "current_value": 108498.26258970125,
+            "coins_held": 1.8806219704658107,
+            "time": 1619877191.611302
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8108.867210549099,
+            "current_value": 108108.8672105491,
+            "coins_held": 1.8806219704658107,
+            "time": 1619878091.137099
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8071.2705683643435,
+            "current_value": 108071.27056836434,
+            "coins_held": 1.8806219704658107,
+            "time": 1619878991.2022169
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8310.698757476843,
+            "current_value": 108310.69875747684,
+            "coins_held": 1.8806219704658107,
+            "time": 1619879891.325407
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8004.100957631803,
+            "current_value": 108004.1009576318,
+            "coins_held": 1.8806219704658107,
+            "time": 1619880791.784919
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7691.826876493316,
+            "current_value": 107691.82687649332,
+            "coins_held": 1.8806219704658107,
+            "time": 1619881691.842318
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7877.256202781238,
+            "current_value": 107877.25620278124,
+            "coins_held": 1.8806219704658107,
+            "time": 1619882591.309938
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7798.213661362563,
+            "current_value": 107798.21366136256,
+            "coins_held": 1.8806219704658107,
+            "time": 1619883491.519391
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8017.622629599457,
+            "current_value": 108017.62262959946,
+            "coins_held": 1.8806219704658107,
+            "time": 1619884390.9642959
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8058.691652190479,
+            "current_value": 108058.69165219048,
+            "coins_held": 1.8806219704658107,
+            "time": 1619885290.7581282
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8155.28096078019,
+            "current_value": 108155.28096078019,
+            "coins_held": 1.8806219704658107,
+            "time": 1619886191.04897
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7952.136175530482,
+            "current_value": 107952.13617553048,
+            "coins_held": 1.8806219704658107,
+            "time": 1619887091.060075
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8066.042439286452,
+            "current_value": 108066.04243928645,
+            "coins_held": 1.8806219704658107,
+            "time": 1619887990.598378
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8378.915122398132,
+            "current_value": 108378.91512239813,
+            "coins_held": 1.8806219704658107,
+            "time": 1619888890.538336
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8383.105900397117,
+            "current_value": 108383.10590039712,
+            "coins_held": 1.8806219704658107,
+            "time": 1619889790.59407
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8462.926831249395,
+            "current_value": 108462.9268312494,
+            "coins_held": 1.8806219704658107,
+            "time": 1619890690.783902
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8384.7503162481,
+            "current_value": 108384.7503162481,
+            "coins_held": 1.8806219704658107,
+            "time": 1619891590.6646569
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8137.584308038116,
+            "current_value": 108137.58430803812,
+            "coins_held": 1.8806219704658107,
+            "time": 1619892490.6340008
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8083.579239161045,
+            "current_value": 108083.57923916104,
+            "coins_held": 1.8806219704658107,
+            "time": 1619893390.8044019
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8244.949016332,
+            "current_value": 108244.949016332,
+            "coins_held": 1.8806219704658107,
+            "time": 1619894291.377845
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8334.50122557045,
+            "current_value": 108334.50122557045,
+            "coins_held": 1.8806219704658107,
+            "time": 1619895190.4322062
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8215.417045343202,
+            "current_value": 108215.4170453432,
+            "coins_held": 1.8806219704658107,
+            "time": 1619896090.2053068
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8330.329253791162,
+            "current_value": 108330.32925379116,
+            "coins_held": 1.8806219704658107,
+            "time": 1619896990.5869062
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8719.20426484407,
+            "current_value": 108719.20426484407,
+            "coins_held": 1.8806219704658107,
+            "time": 1619897890.360064
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8792.003141320805,
+            "current_value": 108792.0031413208,
+            "coins_held": 1.8806219704658107,
+            "time": 1619898790.5892742
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8739.988334675072,
+            "current_value": 108739.98833467507,
+            "coins_held": 1.8806219704658107,
+            "time": 1619899690.780752
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8515.52350233277,
+            "current_value": 108515.52350233277,
+            "coins_held": 1.8806219704658107,
+            "time": 1619900593.4979048
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8723.893407665237,
+            "current_value": 108723.89340766524,
+            "coins_held": 1.8806219704658107,
+            "time": 1619901490.979388
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8662.38127200646,
+            "current_value": 108662.38127200646,
+            "coins_held": 1.8806219704658107,
+            "time": 1619902393.208214
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8504.015788433302,
+            "current_value": 108504.0157884333,
+            "coins_held": 1.8806219704658107,
+            "time": 1619903292.571904
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8243.20643201418,
+            "current_value": 108243.20643201418,
+            "coins_held": 1.8806219704658107,
+            "time": 1619904191.9425511
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8482.822683323728,
+            "current_value": 108482.82268332373,
+            "coins_held": 1.8806219704658107,
+            "time": 1619905092.524043
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8101.206873076808,
+            "current_value": 108101.20687307681,
+            "coins_held": 1.8806219704658107,
+            "time": 1619905990.475233
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8055.899492750934,
+            "current_value": 108055.89949275093,
+            "coins_held": 1.8806219704658107,
+            "time": 1619906892.3365939
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8339.818496129737,
+            "current_value": 108339.81849612974,
+            "coins_held": 1.8806219704658107,
+            "time": 1619907790.2887511
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8312.996313338153,
+            "current_value": 108312.99631333815,
+            "coins_held": 1.8806219704658107,
+            "time": 1619908689.883926
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8449.958814389844,
+            "current_value": 108449.95881438984,
+            "coins_held": 1.8806219704658107,
+            "time": 1619909589.6771042
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8443.106768240454,
+            "current_value": 108443.10676824045,
+            "coins_held": 1.8806219704658107,
+            "time": 1619910489.8752482
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8694.513767056036,
+            "current_value": 108694.51376705604,
+            "coins_held": 1.8806219704658107,
+            "time": 1619911389.199219
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8827.130150733967,
+            "current_value": 108827.13015073397,
+            "coins_held": 1.8806219704658107,
+            "time": 1619912289.524256
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8750.62644897541,
+            "current_value": 108750.62644897541,
+            "coins_held": 1.8806219704658107,
+            "time": 1619913190.067272
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8682.726592731735,
+            "current_value": 108682.72659273173,
+            "coins_held": 1.8806219704658107,
+            "time": 1619914089.934826
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8368.937106409445,
+            "current_value": 108368.93710640944,
+            "coins_held": 1.8806219704658107,
+            "time": 1619914989.369456
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8230.925782484846,
+            "current_value": 108230.92578248485,
+            "coins_held": 1.8806219704658107,
+            "time": 1619915890.066605
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8181.553249707606,
+            "current_value": 108181.5532497076,
+            "coins_held": 1.8806219704658107,
+            "time": 1619916789.928719
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7896.968130026871,
+            "current_value": 107896.96813002687,
+            "coins_held": 1.8806219704658107,
+            "time": 1619917689.996313
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8074.480037819143,
+            "current_value": 108074.48003781914,
+            "coins_held": 1.8806219704658107,
+            "time": 1619918589.372233
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7952.252209906059,
+            "current_value": 107952.25220990606,
+            "coins_held": 1.8806219704658107,
+            "time": 1619919489.77155
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8049.862696225726,
+            "current_value": 108049.86269622573,
+            "coins_held": 1.8806219704658107,
+            "time": 1619920389.782665
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8201.221546523535,
+            "current_value": 108201.22154652353,
+            "coins_held": 1.8806219704658107,
+            "time": 1619921289.739808
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8483.574932111907,
+            "current_value": 108483.57493211191,
+            "coins_held": 1.8806219704658107,
+            "time": 1619922189.9176
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8353.373267044066,
+            "current_value": 108353.37326704407,
+            "coins_held": 1.8806219704658107,
+            "time": 1619923089.783028
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8527.728738921112,
+            "current_value": 108527.72873892111,
+            "coins_held": 1.8806219704658107,
+            "time": 1619923989.9879098
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8443.179172186297,
+            "current_value": 108443.1791721863,
+            "coins_held": 1.8806219704658107,
+            "time": 1619924888.903439
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8125.664361802716,
+            "current_value": 108125.66436180272,
+            "coins_held": 1.8806219704658107,
+            "time": 1619925789.142636
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6987.649042618446,
+            "current_value": 106987.64904261845,
+            "coins_held": 1.8806219704658107,
+            "time": 1619926689.247257
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6233.307310241202,
+            "current_value": 106233.3073102412,
+            "coins_held": 1.8806219704658107,
+            "time": 1619927588.701828
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6017.847648142284,
+            "current_value": 106017.84764814228,
+            "coins_held": 1.8806219704658107,
+            "time": 1619928489.244027
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6891.681655714361,
+            "current_value": 106891.68165571436,
+            "coins_held": 1.8806219704658107,
+            "time": 1619929388.641223
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6697.2072899972845,
+            "current_value": 106697.20728999728,
+            "coins_held": 1.8806219704658107,
+            "time": 1619930289.079766
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6905.002853379963,
+            "current_value": 106905.00285337996,
+            "coins_held": 1.8806219704658107,
+            "time": 1619931189.062579
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6856.814924381935,
+            "current_value": 106856.81492438194,
+            "coins_held": 1.8806219704658107,
+            "time": 1619932088.9306822
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7041.269524302566,
+            "current_value": 107041.26952430257,
+            "coins_held": 1.8806219704658107,
+            "time": 1619932988.999237
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7101.834954861421,
+            "current_value": 107101.83495486142,
+            "coins_held": 1.8806219704658107,
+            "time": 1619933888.8333151
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7096.917128408662,
+            "current_value": 107096.91712840866,
+            "coins_held": 1.8806219704658107,
+            "time": 1619934789.350056
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7333.43693564384,
+            "current_value": 107333.43693564384,
+            "coins_held": 1.8806219704658107,
+            "time": 1619935689.035926
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7058.599455760414,
+            "current_value": 107058.59945576041,
+            "coins_held": 1.8806219704658107,
+            "time": 1619936588.970797
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6885.704474905637,
+            "current_value": 106885.70447490564,
+            "coins_held": 1.8806219704658107,
+            "time": 1619937488.7495291
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7036.483341387735,
+            "current_value": 107036.48334138773,
+            "coins_held": 1.8806219704658107,
+            "time": 1619938389.300174
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7147.966611796946,
+            "current_value": 107147.96661179695,
+            "coins_held": 1.8806219704658107,
+            "time": 1619939288.520997
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6601.786976024407,
+            "current_value": 106601.7869760244,
+            "coins_held": 1.8806219704658107,
+            "time": 1619940188.235125
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6249.753349372928,
+            "current_value": 106249.75334937293,
+            "coins_held": 1.8806219704658107,
+            "time": 1619941088.72836
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6518.2215387667675,
+            "current_value": 106518.22153876677,
+            "coins_held": 1.8806219704658107,
+            "time": 1619941988.60791
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6506.6337103713595,
+            "current_value": 106506.63371037136,
+            "coins_held": 1.8806219704658107,
+            "time": 1619942888.653377
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6082.55345603131,
+            "current_value": 106082.55345603131,
+            "coins_held": 1.8806219704658107,
+            "time": 1619943788.4611268
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6159.591630553856,
+            "current_value": 106159.59163055386,
+            "coins_held": 1.8806219704658107,
+            "time": 1619944688.459232
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6302.344942776996,
+            "current_value": 106302.344942777,
+            "coins_held": 1.8806219704658107,
+            "time": 1619945588.348553
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6400.246925502099,
+            "current_value": 106400.2469255021,
+            "coins_held": 1.8806219704658107,
+            "time": 1619946488.391026
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5645.061358046703,
+            "current_value": 105645.0613580467,
+            "coins_held": 1.8806219704658107,
+            "time": 1619947388.3694432
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5853.493700028572,
+            "current_value": 105853.49370002857,
+            "coins_held": 1.8806219704658107,
+            "time": 1619948288.374152
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 5966.469055909154,
+            "current_value": 105966.46905590915,
+            "coins_held": 1.8806219704658107,
+            "time": 1619949188.26294
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6424.243661845234,
+            "current_value": 106424.24366184523,
+            "coins_held": 1.8806219704658107,
+            "time": 1619950088.050184
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6719.861826440116,
+            "current_value": 106719.86182644012,
+            "coins_held": 1.8806219704658107,
+            "time": 1619950988.1000252
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6565.199475589005,
+            "current_value": 106565.199475589,
+            "coins_held": 1.8806219704658107,
+            "time": 1619951888.043364
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6771.196600181327,
+            "current_value": 106771.19660018133,
+            "coins_held": 1.8806219704658107,
+            "time": 1619952787.756306
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6787.642639313053,
+            "current_value": 106787.64263931305,
+            "coins_held": 1.8806219704658107,
+            "time": 1619953687.836637
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6607.062120651564,
+            "current_value": 106607.06212065156,
+            "coins_held": 1.8806219704658107,
+            "time": 1619954587.775253
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6707.405902943123,
+            "current_value": 106707.40590294312,
+            "coins_held": 1.8806219704658107,
+            "time": 1619955487.398926
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6975.338115075399,
+            "current_value": 106975.3381150754,
+            "coins_held": 1.8806219704658107,
+            "time": 1619956387.507042
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7326.295461773188,
+            "current_value": 107326.29546177319,
+            "coins_held": 1.8806219704658107,
+            "time": 1619957288.225234
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6930.011928529813,
+            "current_value": 106930.01192852981,
+            "coins_held": 1.8806219704658107,
+            "time": 1619958187.350591
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7175.12599010783,
+            "current_value": 107175.12599010783,
+            "coins_held": 1.8806219704658107,
+            "time": 1619959087.6341262
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6987.276867530498,
+            "current_value": 106987.2768675305,
+            "coins_held": 1.8806219704658107,
+            "time": 1619959987.7250009
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6911.074065287234,
+            "current_value": 106911.07406528723,
+            "coins_held": 1.8806219704658107,
+            "time": 1619960887.144212
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6920.489587244549,
+            "current_value": 106920.48958724455,
+            "coins_held": 1.8806219704658107,
+            "time": 1619961787.775008
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6862.3597501996555,
+            "current_value": 106862.35975019966,
+            "coins_held": 1.8806219704658107,
+            "time": 1619962687.411951
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6437.602471950246,
+            "current_value": 106437.60247195025,
+            "coins_held": 1.8806219704658107,
+            "time": 1619963587.7339158
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6953.124772546827,
+            "current_value": 106953.12477254683,
+            "coins_held": 1.8806219704658107,
+            "time": 1619964487.3453991
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6916.737934475677,
+            "current_value": 106916.73793447568,
+            "coins_held": 1.8806219704658107,
+            "time": 1619965387.9037771
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6898.790406762724,
+            "current_value": 106898.79040676272,
+            "coins_held": 1.8806219704658107,
+            "time": 1619966287.51574
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7149.2674380139215,
+            "current_value": 107149.26743801392,
+            "coins_held": 1.8806219704658107,
+            "time": 1619967187.658185
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6644.937847136753,
+            "current_value": 106644.93784713675,
+            "coins_held": 1.8806219704658107,
+            "time": 1619968088.920428
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6819.692198933728,
+            "current_value": 106819.69219893373,
+            "coins_held": 1.8806219704658107,
+            "time": 1619968987.130665
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6385.85076431818,
+            "current_value": 106385.85076431818,
+            "coins_held": 1.8806219704658107,
+            "time": 1619969887.5690172
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6653.911422931022,
+            "current_value": 106653.91142293102,
+            "coins_held": 1.8806219704658107,
+            "time": 1619970787.245214
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6343.411896683858,
+            "current_value": 106343.41189668386,
+            "coins_held": 1.8806219704658107,
+            "time": 1619971687.957654
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6572.662347754405,
+            "current_value": 106572.6623477544,
+            "coins_held": 1.8806219704658107,
+            "time": 1619972586.833017
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6664.223625443876,
+            "current_value": 106664.22362544388,
+            "coins_held": 1.8806219704658107,
+            "time": 1619973486.9708512
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6503.969621287979,
+            "current_value": 106503.96962128798,
+            "coins_held": 1.8806219704658107,
+            "time": 1619974387.354272
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6340.803662073027,
+            "current_value": 106340.80366207303,
+            "coins_held": 1.8806219704658107,
+            "time": 1619975286.972289
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6576.790312979574,
+            "current_value": 106576.79031297957,
+            "coins_held": 1.8806219704658107,
+            "time": 1619976187.1893172
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6635.387484584149,
+            "current_value": 106635.38748458415,
+            "coins_held": 1.8806219704658107,
+            "time": 1619977086.9859872
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6965.512993652897,
+            "current_value": 106965.5129936529,
+            "coins_held": 1.8806219704658107,
+            "time": 1619977987.175294
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6809.379432234287,
+            "current_value": 106809.37943223429,
+            "coins_held": 1.8806219704658107,
+            "time": 1619978886.830358
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6945.279381872635,
+            "current_value": 106945.27938187263,
+            "coins_held": 1.8806219704658107,
+            "time": 1619979787.073445
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6807.210510915742,
+            "current_value": 106807.21051091574,
+            "coins_held": 1.8806219704658107,
+            "time": 1619980687.6104581
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7006.810323751139,
+            "current_value": 107006.81032375114,
+            "coins_held": 1.8806219704658107,
+            "time": 1619981587.001887
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6798.300500144076,
+            "current_value": 106798.30050014408,
+            "coins_held": 1.8806219704658107,
+            "time": 1619982487.146827
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6575.897017543597,
+            "current_value": 106575.8970175436,
+            "coins_held": 1.8806219704658107,
+            "time": 1619983387.20908
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6708.283401154549,
+            "current_value": 106708.28340115455,
+            "coins_held": 1.8806219704658107,
+            "time": 1619984287.296284
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7082.386126629455,
+            "current_value": 107082.38612662946,
+            "coins_held": 1.8806219704658107,
+            "time": 1619985186.7117708
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7125.712459771632,
+            "current_value": 107125.71245977163,
+            "coins_held": 1.8806219704658107,
+            "time": 1619986087.101612
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6869.252229721416,
+            "current_value": 106869.25222972142,
+            "coins_held": 1.8806219704658107,
+            "time": 1619986986.888767
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6733.916278611985,
+            "current_value": 106733.91627861199,
+            "coins_held": 1.8806219704658107,
+            "time": 1619987886.5462348
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7048.560131495469,
+            "current_value": 107048.56013149547,
+            "coins_held": 1.8806219704658107,
+            "time": 1619988791.489729
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7434.983939872094,
+            "current_value": 107434.9839398721,
+            "coins_held": 1.8806219704658107,
+            "time": 1619989686.752151
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7102.261291862131,
+            "current_value": 107102.26129186213,
+            "coins_held": 1.8806219704658107,
+            "time": 1619990586.854348
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7286.953978524223,
+            "current_value": 107286.95397852422,
+            "coins_held": 1.8806219704658107,
+            "time": 1619991486.202067
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6853.646076361692,
+            "current_value": 106853.64607636169,
+            "coins_held": 1.8806219704658107,
+            "time": 1619992386.598999
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6656.5004751977685,
+            "current_value": 106656.50047519777,
+            "coins_held": 1.8806219704658107,
+            "time": 1619993286.493498
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6107.001541647362,
+            "current_value": 106107.00154164736,
+            "coins_held": 1.8806219704658107,
+            "time": 1619994185.9984288
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6155.026420720562,
+            "current_value": 106155.02642072056,
+            "coins_held": 1.8806219704658107,
+            "time": 1619995086.04386
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6114.176114464688,
+            "current_value": 106114.17611446469,
+            "coins_held": 1.8806219704658107,
+            "time": 1619995986.471433
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6178.643835612253,
+            "current_value": 106178.64383561225,
+            "coins_held": 1.8806219704658107,
+            "time": 1619996886.5143511
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6073.150346178983,
+            "current_value": 106073.15034617898,
+            "coins_held": 1.8806219704658107,
+            "time": 1619997787.703747
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6313.318371974659,
+            "current_value": 106313.31837197466,
+            "coins_held": 1.8806219704658107,
+            "time": 1619998686.2534258
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6512.299836306163,
+            "current_value": 106512.29983630616,
+            "coins_held": 1.8806219704658107,
+            "time": 1619999586.209546
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6965.9035988361575,
+            "current_value": 106965.90359883616,
+            "coins_held": 1.8806219704658107,
+            "time": 1620000485.9974961
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7504.153215945829,
+            "current_value": 107504.15321594583,
+            "coins_held": 1.8806219704658107,
+            "time": 1620001386.137082
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7987.817968424919,
+            "current_value": 107987.81796842492,
+            "coins_held": 1.8806219704658107,
+            "time": 1620002286.6095119
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8208.627811967614,
+            "current_value": 108208.62781196761,
+            "coins_held": 1.8806219704658107,
+            "time": 1620003186.39814
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8310.57331999141,
+            "current_value": 108310.57331999141,
+            "coins_held": 1.8806219704658107,
+            "time": 1620004085.801078
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8342.446853395668,
+            "current_value": 108342.44685339567,
+            "coins_held": 1.8806219704658107,
+            "time": 1620004986.368531
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8593.638332933435,
+            "current_value": 108593.63833293343,
+            "coins_held": 1.8806219704658107,
+            "time": 1620005885.8972359
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9267.966746830847,
+            "current_value": 109267.96674683085,
+            "coins_held": 1.8806219704658107,
+            "time": 1620006785.917818
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9026.340486759276,
+            "current_value": 109026.34048675928,
+            "coins_held": 1.8806219704658107,
+            "time": 1620007687.013543
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9289.490465282826,
+            "current_value": 109289.49046528283,
+            "coins_held": 1.8806219704658107,
+            "time": 1620008585.6744032
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9532.040486866317,
+            "current_value": 109532.04048686632,
+            "coins_held": 1.8806219704658107,
+            "time": 1620009485.873569
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9265.814563047854,
+            "current_value": 109265.81456304785,
+            "coins_held": 1.8806219704658107,
+            "time": 1620010385.601182
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9236.468209447514,
+            "current_value": 109236.46820944751,
+            "coins_held": 1.8806219704658107,
+            "time": 1620011285.929017
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9317.546148024834,
+            "current_value": 109317.54614802483,
+            "coins_held": 1.8806219704658107,
+            "time": 1620012185.719083
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9279.76558101135,
+            "current_value": 109279.76558101135,
+            "coins_held": 1.8806219704658107,
+            "time": 1620013085.847064
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8831.756480781303,
+            "current_value": 108831.7564807813,
+            "coins_held": 1.8806219704658107,
+            "time": 1620013986.0757399
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9047.398375149161,
+            "current_value": 109047.39837514916,
+            "coins_held": 1.8806219704658107,
+            "time": 1620014885.4710772
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9030.538223059528,
+            "current_value": 109030.53822305953,
+            "coins_held": 1.8806219704658107,
+            "time": 1620015785.630965
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8935.033845284575,
+            "current_value": 108935.03384528458,
+            "coins_held": 1.8806219704658107,
+            "time": 1620016685.646176
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8767.987598757958,
+            "current_value": 108767.98759875796,
+            "coins_held": 1.8806219704658107,
+            "time": 1620017585.61917
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8846.841137668598,
+            "current_value": 108846.8411376686,
+            "coins_held": 1.8806219704658107,
+            "time": 1620018485.617692
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9009.409435221358,
+            "current_value": 109009.40943522136,
+            "coins_held": 1.8806219704658107,
+            "time": 1620019385.12936
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8963.920198750944,
+            "current_value": 108963.92019875094,
+            "coins_held": 1.8806219704658107,
+            "time": 1620020285.191435
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9064.059181309916,
+            "current_value": 109064.05918130992,
+            "coins_held": 1.8806219704658107,
+            "time": 1620021186.218506
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9022.868294415195,
+            "current_value": 109022.8682944152,
+            "coins_held": 1.8806219704658107,
+            "time": 1620022085.602784
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9068.087849695032,
+            "current_value": 109068.08784969503,
+            "coins_held": 1.8806219704658107,
+            "time": 1620022985.471213
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9005.256269661782,
+            "current_value": 109005.25626966178,
+            "coins_held": 1.8806219704658107,
+            "time": 1620023885.226938
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9139.470053641417,
+            "current_value": 109139.47005364142,
+            "coins_held": 1.8806219704658107,
+            "time": 1620024784.935277
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8866.667030605662,
+            "current_value": 108866.66703060566,
+            "coins_held": 1.8806219704658107,
+            "time": 1620025684.890678
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9141.419694438213,
+            "current_value": 109141.41969443821,
+            "coins_held": 1.8806219704658107,
+            "time": 1620026584.6521258
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10484.334231108427,
+            "current_value": 110484.33423110843,
+            "coins_held": 1.8806219704658107,
+            "time": 1620027484.754147
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10511.364974876516,
+            "current_value": 110511.36497487652,
+            "coins_held": 1.8806219704658107,
+            "time": 1620028385.0587761
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10475.893247456203,
+            "current_value": 110475.8932474562,
+            "coins_held": 1.8806219704658107,
+            "time": 1620029284.5876942
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10470.072722457611,
+            "current_value": 110470.07272245761,
+            "coins_held": 1.8806219704658107,
+            "time": 1620030184.17607
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10905.902538682523,
+            "current_value": 110905.90253868252,
+            "coins_held": 1.8806219704658107,
+            "time": 1620031084.363335
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10638.24038386521,
+            "current_value": 110638.24038386521,
+            "coins_held": 1.8806219704658107,
+            "time": 1620031984.424434
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10137.591358246442,
+            "current_value": 110137.59135824644,
+            "coins_held": 1.8806219704658107,
+            "time": 1620032884.2211049
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10093.290110674789,
+            "current_value": 110093.29011067479,
+            "coins_held": 1.8806219704658107,
+            "time": 1620033784.692599
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10301.87929652899,
+            "current_value": 110301.87929652899,
+            "coins_held": 1.8806219704658107,
+            "time": 1620034684.053322
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10066.221754467275,
+            "current_value": 110066.22175446727,
+            "coins_held": 1.8806219704658107,
+            "time": 1620035584.087183
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9975.720019195956,
+            "current_value": 109975.72001919596,
+            "coins_held": 1.8806219704658107,
+            "time": 1620036484.320888
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10023.713491882241,
+            "current_value": 110023.71349188224,
+            "coins_held": 1.8806219704658107,
+            "time": 1620037384.6490932
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9982.389833076406,
+            "current_value": 109982.3898330764,
+            "coins_held": 1.8806219704658107,
+            "time": 1620038284.830267
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10020.036875929989,
+            "current_value": 110020.03687592999,
+            "coins_held": 1.8806219704658107,
+            "time": 1620039184.4468591
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10252.224670456184,
+            "current_value": 110252.22467045618,
+            "coins_held": 1.8806219704658107,
+            "time": 1620040084.106105
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10690.907954396898,
+            "current_value": 110690.9079543969,
+            "coins_held": 1.8806219704658107,
+            "time": 1620040983.7941
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10823.112481863296,
+            "current_value": 110823.1124818633,
+            "coins_held": 1.8806219704658107,
+            "time": 1620041883.514078
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10606.631077847822,
+            "current_value": 110606.63107784782,
+            "coins_held": 1.8806219704658107,
+            "time": 1620042784.196964
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10555.512763695413,
+            "current_value": 110555.51276369541,
+            "coins_held": 1.8806219704658107,
+            "time": 1620043683.82745
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10171.737247177603,
+            "current_value": 110171.7372471776,
+            "coins_held": 1.8806219704658107,
+            "time": 1620044584.11621
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10237.021346322552,
+            "current_value": 110237.02134632255,
+            "coins_held": 1.8806219704658107,
+            "time": 1620045483.772751
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10140.453100698913,
+            "current_value": 110140.45310069891,
+            "coins_held": 1.8806219704658107,
+            "time": 1620046383.75744
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9949.830060715147,
+            "current_value": 109949.83006071515,
+            "coins_held": 1.8806219704658107,
+            "time": 1620047284.837207
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 10145.190575504705,
+            "current_value": 110145.1905755047,
+            "coins_held": 1.8806219704658107,
+            "time": 1620048183.6170208
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9836.522586994572,
+            "current_value": 109836.52258699457,
+            "coins_held": 1.8806219704658107,
+            "time": 1620049084.3374112
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8280.877170704582,
+            "current_value": 108280.87717070458,
+            "coins_held": 1.8806219704658107,
+            "time": 1620049983.646147
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8557.884512217512,
+            "current_value": 108557.88451221751,
+            "coins_held": 1.8806219704658107,
+            "time": 1620050883.5335429
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9001.238132759681,
+            "current_value": 109001.23813275968,
+            "coins_held": 1.8806219704658107,
+            "time": 1620051783.781686
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8818.928946382963,
+            "current_value": 108818.92894638296,
+            "coins_held": 1.8806219704658107,
+            "time": 1620052684.016882
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8818.582535815993,
+            "current_value": 108818.582535816,
+            "coins_held": 1.8806219704658107,
+            "time": 1620053583.80064
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8867.419279393842,
+            "current_value": 108867.41927939384,
+            "coins_held": 1.8806219704658107,
+            "time": 1620054483.7475479
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8830.361623465811,
+            "current_value": 108830.36162346581,
+            "coins_held": 1.8806219704658107,
+            "time": 1620055383.855385
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8733.052036661407,
+            "current_value": 108733.05203666141,
+            "coins_held": 1.8806219704658107,
+            "time": 1620056283.9722528
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8481.606485095428,
+            "current_value": 108481.60648509543,
+            "coins_held": 1.8806219704658107,
+            "time": 1620057183.677255
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8372.47718920665,
+            "current_value": 108372.47718920665,
+            "coins_held": 1.8806219704658107,
+            "time": 1620058083.5001678
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8046.474567683748,
+            "current_value": 108046.47456768375,
+            "coins_held": 1.8806219704658107,
+            "time": 1620058983.623122
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8485.361522983847,
+            "current_value": 108485.36152298385,
+            "coins_held": 1.8806219704658107,
+            "time": 1620059883.756459
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8683.32839176229,
+            "current_value": 108683.32839176229,
+            "coins_held": 1.8806219704658107,
+            "time": 1620060783.443958
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8428.886445210766,
+            "current_value": 108428.88644521077,
+            "coins_held": 1.8806219704658107,
+            "time": 1620061683.489176
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8682.786020386004,
+            "current_value": 108682.786020386,
+            "coins_held": 1.8806219704658107,
+            "time": 1620062583.1291788
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9260.641724255882,
+            "current_value": 109260.64172425588,
+            "coins_held": 1.8806219704658107,
+            "time": 1620063482.88878
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9172.476285658471,
+            "current_value": 109172.47628565847,
+            "coins_held": 1.8806219704658107,
+            "time": 1620064383.092036
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 9214.359805624917,
+            "current_value": 109214.35980562492,
+            "coins_held": 1.8806219704658107,
+            "time": 1620065283.93484
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8904.086330138598,
+            "current_value": 108904.0863301386,
+            "coins_held": 1.8806219704658107,
+            "time": 1620066183.043883
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8828.531214101968,
+            "current_value": 108828.53121410197,
+            "coins_held": 1.8806219704658107,
+            "time": 1620067083.4382389
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8777.578770807333,
+            "current_value": 108777.57877080733,
+            "coins_held": 1.8806219704658107,
+            "time": 1620067982.7898822
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8466.508287729943,
+            "current_value": 108466.50828772994,
+            "coins_held": 1.8806219704658107,
+            "time": 1620068883.345349
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8070.836708875751,
+            "current_value": 108070.83670887575,
+            "coins_held": 1.8806219704658107,
+            "time": 1620069782.7858062
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8196.33813545281,
+            "current_value": 108196.33813545281,
+            "coins_held": 1.8806219704658107,
+            "time": 1620070683.441335
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 8038.115203025023,
+            "current_value": 108038.11520302502,
+            "coins_held": 1.8806219704658107,
+            "time": 1620071583.908222
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7965.734012687928,
+            "current_value": 107965.73401268793,
+            "coins_held": 1.8806219704658107,
+            "time": 1620072484.108054
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7829.234144640999,
+            "current_value": 107829.234144641,
+            "coins_held": 1.8806219704658107,
+            "time": 1620073384.021067
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6846.21141352586,
+            "current_value": 106846.21141352586,
+            "coins_held": 1.8806219704658107,
+            "time": 1620074283.032637
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7292.812115962224,
+            "current_value": 107292.81211596222,
+            "coins_held": 1.8806219704658107,
+            "time": 1620075182.871254
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6856.17551291197,
+            "current_value": 106856.17551291197,
+            "coins_held": 1.8806219704658107,
+            "time": 1620076083.1281111
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6694.957313871826,
+            "current_value": 106694.95731387183,
+            "coins_held": 1.8806219704658107,
+            "time": 1620076982.291164
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6709.9259363835445,
+            "current_value": 106709.92593638354,
+            "coins_held": 1.8806219704658107,
+            "time": 1620077883.00031
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6942.768751542069,
+            "current_value": 106942.76875154207,
+            "coins_held": 1.8806219704658107,
+            "time": 1620078782.597793
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7233.901444675197,
+            "current_value": 107233.9014446752,
+            "coins_held": 1.8806219704658107,
+            "time": 1620079682.6255481
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 6837.641983393027,
+            "current_value": 106837.64198339303,
+            "coins_held": 1.8806219704658107,
+            "time": 1620080582.7312388
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7141.995637040716,
+            "current_value": 107141.99563704072,
+            "coins_held": 1.8806219704658107,
+            "time": 1620081482.469433
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7941.062509181793,
+            "current_value": 107941.0625091818,
+            "coins_held": 1.8806219704658107,
+            "time": 1620082382.680804
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7609.157743666787,
+            "current_value": 107609.15774366679,
+            "coins_held": 1.8806219704658107,
+            "time": 1620083281.9897568
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7261.3269309948955,
+            "current_value": 107261.3269309949,
+            "coins_held": 1.8806219704658107,
+            "time": 1620084194.356392
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7851.080953947501,
+            "current_value": 107851.0809539475,
+            "coins_held": 1.8806219704658107,
+            "time": 1620085094.288529
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 7582.669183212769,
+            "current_value": 107582.66918321277,
+            "coins_held": 1.8806219704658107,
+            "time": 1620085994.872281
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 0.0,
+            "current_value": 100000.0,
+            "coins_held": 1.7681734775226703,
+            "time": 1620088965.8362749
+        },
+        {
+            "original_investment": 100000,
+            "principle": 0.0,
+            "net_gain_or_loss": 0.0,
+            "current_value": 100000.0,
+            "coins_held": 1.7628209083252038,
+            "time": 1620089184.736246
+        }
+    ]
+}
